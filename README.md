@@ -10,16 +10,15 @@
 - djangorestframework 
 - drf-yasg (swagger/redoc)
 
---- 
-
 ### Установка и запуск - давайте начнем:
 1. Клонируйте репозиторий с проектом 
 ```bash
 git clone https://github.com/Uforick/API-polling-people.git
 ```
-2. Создайте виртуальное окружение
+2. Создайте виртуальное окружение и загрузите requirements
 ```bash 
 python -m venv venv
+pip install -r requirements.txt 
 ```
 3. Перейдите в папку проекта:
 ```bash 

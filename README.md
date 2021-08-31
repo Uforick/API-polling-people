@@ -7,8 +7,9 @@
 ### Какие технологии использовались:
 - Python 3.8.5
 - Git (GitHub repository)
-- sparkles djangorestframework sparkles
+- djangorestframework 
 - drf-yasg (swagger/redoc)
+
 --- 
 
 ### Установка и запуск - давайте начнем:
